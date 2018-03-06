@@ -2,7 +2,7 @@
 ## example of a simple while loop#
 ##################################
 a=input("please enter your name\n")
-while a != "Ali":
+while a != "neda":
     print("oops you are not a legal user")
-    a = input("please enter your name\n")
-print("thanks for your registration")
+    a = input("please enter your esm\n")
+print("thanks")
